@@ -1,0 +1,9 @@
+curios set bracelet @p[tag=firstjoin] 1
+curios set bundle @p[tag=firstjoin] 1
+curios set head @p[tag=firstjoin] 1
+curios set back @p[tag=firstjoin] 1
+curios set hands @p[tag=firstjoin] 1
+curios set belt @p[tag=firstjoin] 1
+curios set quiver @p[tag=firstjoin] 1
+curios set ring @p[tag=firstjoin] 2
+curios set charm @p[tag=firstjoin] 3
